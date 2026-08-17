@@ -1,0 +1,22 @@
+# JavaScript / TypeScript
+node_modules/
+dist/
+coverage/
+
+# Java / Maven
+**/target/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDEs
+.idea/
+*.iml
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+.pnpm-store/
